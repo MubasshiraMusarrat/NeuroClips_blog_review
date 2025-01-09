@@ -32,11 +32,3 @@ The blog effectively explains the NeuroClips framework, emphasizing its dual rec
 - Missed to address or provide insights into many of the paper's known limitations
 - Missed the opportunity to critique reproducibility and accessibility of resources.
 
-## Ethics
-**Flag for Ethics Review:** No ethics concerns identified.  
-
-## Final Assessment
-**Rating:** 7: Accept: The blog communicates ideas well but lacks depth in technical critique and evaluation.  
-**Confidence:** 4: Confident.  
-**Code of Conduct:** Yes.  
-
