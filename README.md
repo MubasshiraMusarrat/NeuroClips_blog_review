@@ -9,9 +9,9 @@
 The blog effectively explains the NeuroClips framework, emphasizing its dual reconstructors for semantics and perception. It highlights the framework's ability to address the temporal resolution gap in fMRI-to-video reconstruction and showcases the potential applications of NeuroClips in neuroscience and clinical research.
 
 ## Assessment
-### **Soundness:** 3: Good  
-### **Presentation:** 3: Good  
-### **Contribution:** 3: Good  
+### **Soundness:** Good  
+### **Presentation:** Good  
+### **Contribution:** Good  
 
 ## Strengths
 - Simplifies complex concepts for broader accessibility.
